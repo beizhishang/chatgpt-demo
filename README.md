@@ -26,9 +26,5 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
 
 MIT
 
-sk-
-uSPLD89TKNoCQoCXMTwOT3BIbkFJF66sjn30r
-6k30004QTXZ
-sk-
-jHZCJi33qazKFTXux0fXT3BIbkFJpbfNmdr9QE1
-wtTEwwxoF
+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
+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
